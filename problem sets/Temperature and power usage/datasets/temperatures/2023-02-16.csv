@@ -1,0 +1,37 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+0,12:53 AM,70 °F,68 °F,93 °%,S,9 °mph,20 °mph,29.18 °in,0.0 °in,Cloudy
+1,1:25 AM,70 °F,68 °F,93 °%,W,10 °mph,0 °mph,29.24 °in,0.0 °in,Light Rain
+2,1:53 AM,56 °F,50 °F,80 °%,NNW,13 °mph,25 °mph,29.29 °in,0.0 °in,Light Rain
+3,2:28 AM,57 °F,47 °F,69 °%,NNW,7 °mph,22 °mph,29.31 °in,0.0 °in,Cloudy
+4,2:53 AM,57 °F,46 °F,67 °%,NNW,14 °mph,20 °mph,29.32 °in,0.0 °in,Cloudy
+5,3:53 AM,56 °F,35 °F,45 °%,NNW,16 °mph,26 °mph,29.34 °in,0.0 °in,Cloudy
+6,4:53 AM,56 °F,34 °F,44 °%,NNW,15 °mph,25 °mph,29.35 °in,0.0 °in,Cloudy
+7,5:53 AM,55 °F,34 °F,45 °%,N,12 °mph,25 °mph,29.39 °in,0.0 °in,Cloudy
+8,6:53 AM,53 °F,31 °F,43 °%,NNW,21 °mph,28 °mph,29.43 °in,0.0 °in,Cloudy / Windy
+9,7:53 AM,50 °F,33 °F,52 °%,NNW,22 °mph,30 °mph,29.47 °in,0.0 °in,Cloudy / Windy
+10,8:53 AM,48 °F,31 °F,52 °%,N,26 °mph,36 °mph,29.51 °in,0.0 °in,Cloudy / Windy
+11,9:53 AM,48 °F,31 °F,52 °%,N,21 °mph,0 °mph,29.54 °in,0.0 °in,Cloudy / Windy
+12,10:53 AM,48 °F,29 °F,48 °%,N,20 °mph,31 °mph,29.55 °in,0.0 °in,Cloudy
+13,11:53 AM,48 °F,28 °F,46 °%,NNW,17 °mph,28 °mph,29.56 °in,0.0 °in,Cloudy
+14,12:53 PM,48 °F,25 °F,41 °%,N,18 °mph,30 °mph,29.55 °in,0.0 °in,Cloudy
+15,1:53 PM,49 °F,25 °F,39 °%,NNW,18 °mph,30 °mph,29.54 °in,0.0 °in,Cloudy
+16,2:53 PM,50 °F,25 °F,38 °%,NNW,16 °mph,25 °mph,29.52 °in,0.0 °in,Cloudy
+17,3:53 PM,52 °F,25 °F,35 °%,N,20 °mph,29 °mph,29.52 °in,0.0 °in,Cloudy
+18,4:53 PM,52 °F,24 °F,34 °%,N,21 °mph,31 °mph,29.54 °in,0.0 °in,Cloudy / Windy
+19,5:53 PM,49 °F,21 °F,33 °%,NNW,22 °mph,32 °mph,29.58 °in,0.0 °in,Mostly Cloudy / Windy
+20,6:53 PM,47 °F,20 °F,34 °%,NNW,22 °mph,32 °mph,29.61 °in,0.0 °in,Fair / Windy
+21,7:53 PM,46 °F,21 °F,37 °%,NNW,15 °mph,21 °mph,29.65 °in,0.0 °in,Fair
+22,8:53 PM,45 °F,21 °F,39 °%,N,23 °mph,32 °mph,29.69 °in,0.0 °in,Fair / Windy
+23,9:53 PM,42 °F,20 °F,41 °%,NNW,14 °mph,32 °mph,29.73 °in,0.0 °in,Fair
+24,10:53 PM,41 °F,20 °F,43 °%,N,15 °mph,26 °mph,29.76 °in,0.0 °in,Fair
+25,11:53 PM,40 °F,20 °F,45 °%,NNW,16 °mph,24 °mph,29.78 °in,0.0 °in,Fair
+26,,,,,,,,,,
+27,,,,,,,,,,
+28,,,,,,,,,,
+29,,,,,,,,,,
+30,,,,,,,,,,
+31,,,,,,,,,,
+32,,,,,,,,,,
+33,,,,,,,,,,
+34,,,,,,,,,,
+35,,,,,,,,,,

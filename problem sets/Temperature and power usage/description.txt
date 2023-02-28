@@ -1,0 +1,11 @@
+Description:
+The goal of this project is to predict daily energy usage in kilowatt hours given temperature data. Sample temperature data is provided in the datasets folder along with daily energy usage. The temperature data is the result of scraping weather data from weather underground, a script to perform the web scraping is provided incase you would like to use your areas weather and your own energy bill. 
+
+Contents:
+fetch daily temp.py: Python script that can be modified to fetch weather data from weather underground. 
+
+Fetch_temp_notebook: Example using the fetch daily temp script. 
+
+Solutions: Annotated Jupyter Notebooks explaining Pandas logic.
+
+datasets: contains two subfolders; power usage and temperatures. power usage contains a csv file of energy usage for each day of a period of time along with other information from the power company. temperatures contain the resulting csv files from fetch daily temp. 
